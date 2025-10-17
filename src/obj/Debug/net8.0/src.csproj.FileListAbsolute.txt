@@ -1,0 +1,15 @@
+D:\VISUALSTUDIO\Patrones_De_Diseño\ExamenUnidad2_Patrones_Ochoa_Moran_Victor_Alejandro\src\bin\Debug\net8.0\src.exe
+D:\VISUALSTUDIO\Patrones_De_Diseño\ExamenUnidad2_Patrones_Ochoa_Moran_Victor_Alejandro\src\bin\Debug\net8.0\src.deps.json
+D:\VISUALSTUDIO\Patrones_De_Diseño\ExamenUnidad2_Patrones_Ochoa_Moran_Victor_Alejandro\src\bin\Debug\net8.0\src.runtimeconfig.json
+D:\VISUALSTUDIO\Patrones_De_Diseño\ExamenUnidad2_Patrones_Ochoa_Moran_Victor_Alejandro\src\bin\Debug\net8.0\src.dll
+D:\VISUALSTUDIO\Patrones_De_Diseño\ExamenUnidad2_Patrones_Ochoa_Moran_Victor_Alejandro\src\bin\Debug\net8.0\src.pdb
+D:\VISUALSTUDIO\Patrones_De_Diseño\ExamenUnidad2_Patrones_Ochoa_Moran_Victor_Alejandro\src\obj\Debug\net8.0\src.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUALSTUDIO\Patrones_De_Diseño\ExamenUnidad2_Patrones_Ochoa_Moran_Victor_Alejandro\src\obj\Debug\net8.0\src.AssemblyInfoInputs.cache
+D:\VISUALSTUDIO\Patrones_De_Diseño\ExamenUnidad2_Patrones_Ochoa_Moran_Victor_Alejandro\src\obj\Debug\net8.0\src.AssemblyInfo.cs
+D:\VISUALSTUDIO\Patrones_De_Diseño\ExamenUnidad2_Patrones_Ochoa_Moran_Victor_Alejandro\src\obj\Debug\net8.0\src.csproj.CoreCompileInputs.cache
+D:\VISUALSTUDIO\Patrones_De_Diseño\ExamenUnidad2_Patrones_Ochoa_Moran_Victor_Alejandro\src\obj\Debug\net8.0\src.sourcelink.json
+D:\VISUALSTUDIO\Patrones_De_Diseño\ExamenUnidad2_Patrones_Ochoa_Moran_Victor_Alejandro\src\obj\Debug\net8.0\src.dll
+D:\VISUALSTUDIO\Patrones_De_Diseño\ExamenUnidad2_Patrones_Ochoa_Moran_Victor_Alejandro\src\obj\Debug\net8.0\refint\src.dll
+D:\VISUALSTUDIO\Patrones_De_Diseño\ExamenUnidad2_Patrones_Ochoa_Moran_Victor_Alejandro\src\obj\Debug\net8.0\src.pdb
+D:\VISUALSTUDIO\Patrones_De_Diseño\ExamenUnidad2_Patrones_Ochoa_Moran_Victor_Alejandro\src\obj\Debug\net8.0\src.genruntimeconfig.cache
+D:\VISUALSTUDIO\Patrones_De_Diseño\ExamenUnidad2_Patrones_Ochoa_Moran_Victor_Alejandro\src\obj\Debug\net8.0\ref\src.dll
