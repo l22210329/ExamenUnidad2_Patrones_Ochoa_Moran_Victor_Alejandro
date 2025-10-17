@@ -1,14 +1,31 @@
-# ExamenUnidad2_Patrones_Ochoa_Moran_Victor_Alejandro
-Examen de la materia de patrones de diseño.
--Ochoa Moran Victor Alejandro
--Control de energia y dispositivos y IoT domesticos
--El programa funciona de la siguiente manera , en la clase "Program" se ejecuta en consola con el comando "dotnet run" y el programa se imprime.
-### Ejecución 
 
-Paso 1: Descargar .NET 8.0 SDK desde https://dotnet.microsoft.com/download y git https://git-scm.com/downloads
-Paso 2: Clonar el repositorio en *Visual Studio Code*.
-git clone https://github.com/
-Paso 3: Abrir terminal y navegar a la carpeta del proyecto
-cd 
-Paso 4: Compilar y ejecutar el proyecto
-dotnet run
+# Examen Unidad 2 - Patrones de Diseño
+**Autor:** Ochoa Morán Víctor Alejandro  
+**Materia:** Patrones de Diseño  
+**Tema:** Control de Energía y Dispositivos IoT Domésticos
+
+---
+
+## Descripción del Proyecto
+El programa implementa un sistema de control para dispositivos IoT domésticos, aplicando patrones de diseño estudiados en la unidad.
+
+### Funcionamiento
+- **Clase Principal:** `Program`
+- **Ejecución:** Mediante consola con el comando `dotnet run`
+- **Salida:** Resultados impresos en consola
+
+---
+
+## Instalación y Ejecución
+
+### Prerrequisitos
+| Componente | Enlace |
+|------------|--------|
+| .NET 8.0 SDK | [Descargar aquí](https://dotnet.microsoft.com/download) |
+| Git | [Descargar aquí](https://git-scm.com/downloads) |
+
+### Pasos para Ejecutar
+
+1. **Clonar Repositorio** en Visual Studio Code
+   ```bash
+   git clone https://github.com/
